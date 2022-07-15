@@ -18,7 +18,7 @@ body {
     font-size: 17px;
 }
 .topnav a.title {
-    font-size: 49px;
+    font-size: 30px;
     float: right;
     color: #f2f2f2;
 }
@@ -44,6 +44,8 @@ body {
     border-color: #dd2222;
 }
 table, th, td {
+    border-collapse: collapse;
+    border-spacing: 0;
     border-style: solid;
     border-color: #f39c12;
     color: black;
